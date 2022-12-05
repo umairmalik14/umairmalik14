@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **HTML,Css,JavaScript,Java,Python And Php**
+- 💬 Ask me about **HTML,Css,Java,Python And Adobe xd**
 
 - 📫 How to reach me **umairfaiz31@gmal.com**
 
