@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Umair Malik</h1>
-<h3 align="center">A passionate Java Programmer</h3>
+<h1 align="center">Hi 👋, I'm Umair Faiz</h1>
+<h3 align="center">A passionate Python Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/01/coding_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairmalik14&label=Profile%20views&color=0e75b6&style=flat" alt="umairmalik" /> </p>
 
-- 🔭 I’m currently working on **Java/Python**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Mobile Development in Flutter**
 
-- 💬 Ask me about **HTML,Css,Java,Python And Adobe xd**
+- 💬 Ask me about **HTML,Css,Java,Python And Flutter**
 
 - 📫 How to reach me **umairfaiz31@gmal.com**
 
