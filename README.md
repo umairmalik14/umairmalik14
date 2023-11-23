@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umair Faiz</h1>
-<h3 align="center">A passionate Python Programmer</h3>
+<h3 align="center">A passionate Developer/Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/01/coding_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairmalik14&label=Profile%20views&color=0e75b6&style=flat" alt="umairmalik" /> </p>
