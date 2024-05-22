@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairmalik14&label=Profile%20views&color=0e75b6&style=flat" alt="umairmalik" /> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Web developer**
 
-- 🌱 I’m currently learning **Mobile Development in Flutter**
+- 🌱 I’m currently learning **UI/UX**
 
-- 💬 Ask me about **HTML,Css,Java,Python And Flutter**
+- 💬 Ask me about **HTML,Css,,JavaScript,Java,Python And Flutter**
 
 - 📫 How to reach me **umairfaiz31@gmal.com**
 
