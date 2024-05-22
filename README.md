@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **UI/UX**
 
-- 💬 Ask me about **HTML,Css,,JavaScript,Java,Python And Flutter**
+- 💬 Ask me about **HTML,Css,JavaScript,Java,Python And Flutter**
 
 - 📫 How to reach me **umairfaiz31@gmal.com**
 
