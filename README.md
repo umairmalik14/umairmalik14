@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web developer**
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **UI/UX & ReactJs**
 
 - 💬 Ask me about **HTML,Css,JavaScript,Java,Python And Flutter**
 
